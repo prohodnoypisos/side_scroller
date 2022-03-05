@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\sidescroller.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EAD5B145-3247-47FA-972E-95CD82155E62}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sidescroller.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\sidescrollerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2A7EF115-C880-4D1E-B377-C1E85ACA65C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\sidescroller">
+      <UniqueIdentifier>{A6587600-7F8A-4FFE-B5B2-9454C6ADB415}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sidescroller\sidescroller.Build.cs">
+      <Filter>Source\sidescroller</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\sidescroller\sidescroller.cpp">
+      <Filter>Source\sidescroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescroller\sidescroller.h">
+      <Filter>Source\sidescroller</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescroller\sidescrollerCharacter.cpp">
+      <Filter>Source\sidescroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescroller\sidescrollerCharacter.h">
+      <Filter>Source\sidescroller</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sidescroller\sidescrollerGameMode.cpp">
+      <Filter>Source\sidescroller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sidescroller\sidescrollerGameMode.h">
+      <Filter>Source\sidescroller</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

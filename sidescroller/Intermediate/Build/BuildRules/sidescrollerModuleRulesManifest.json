@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\git\\side_scroller\\sidescroller\\Source\\sidescroller\\sidescroller.Build.cs",
+		"D:\\git\\side_scroller\\sidescroller\\Source\\sidescroller.Target.cs",
+		"D:\\git\\side_scroller\\sidescroller\\Source\\sidescrollerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

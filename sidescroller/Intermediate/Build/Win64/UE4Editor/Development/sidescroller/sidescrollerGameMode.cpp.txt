@@ -1,0 +1,17 @@
+D:\git\side_scroller\sidescroller\Intermediate\Build\Win64\UE4Editor\Development\sidescroller\Definitions.sidescroller.h
+D:\git\side_scroller\sidescroller\Source\sidescroller\sidescrollerGameMode.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\ue4projs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\ue4projs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\git\side_scroller\sidescroller\Intermediate\Build\Win64\UE4Editor\Inc\sidescroller\sidescrollerGameMode.generated.h
+D:\git\side_scroller\sidescroller\Source\sidescroller\sidescrollerCharacter.h
+D:\ue4projs\UE_4.27\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\ue4projs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\ue4projs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\ue4projs\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\ue4projs\UE_4.27\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+D:\git\side_scroller\sidescroller\Intermediate\Build\Win64\UE4Editor\Inc\sidescroller\sidescrollerCharacter.generated.h

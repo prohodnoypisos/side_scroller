@@ -1,0 +1,3 @@
+D:\git\side_scroller\sidescroller\Intermediate\Build\Win64\UE4Editor\Development\sidescroller\Definitions.sidescroller.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ue4projs\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

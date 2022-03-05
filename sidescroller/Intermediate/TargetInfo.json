@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "sidescroller",
+			"Path": "D:\\git\\side_scroller\\sidescroller\\Source\\sidescroller.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "sidescrollerEditor",
+			"Path": "D:\\git\\side_scroller\\sidescroller\\Source\\sidescrollerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

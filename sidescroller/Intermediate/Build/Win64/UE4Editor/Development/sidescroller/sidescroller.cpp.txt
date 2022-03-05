@@ -1,0 +1,2 @@
+D:\git\side_scroller\sidescroller\Intermediate\Build\Win64\UE4Editor\Development\sidescroller\Definitions.sidescroller.h
+D:\git\side_scroller\sidescroller\Source\sidescroller\sidescroller.h
