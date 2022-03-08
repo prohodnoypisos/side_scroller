@@ -1,1 +1,3 @@
-# side_scroller
+# \*inputname\* sidescroller
+
+\*The game description\*
